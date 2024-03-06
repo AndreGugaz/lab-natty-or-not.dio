@@ -1,11 +1,11 @@
 # A Jornada da IA: Um Passeio pelo Futuro 🌌
 
 ## 📒 Descrição
-Este pequeno projeto de e-book se dá através do curso "Formação Fundamentos de Inteligência Artificial" proposto pela [Dio](dio.me) utilizando-se de ferramentas de IAs.
+Este pequeno projeto de e-book se dá através do curso "Formação Fundamentos de Inteligência Artificial" proposto pela [Dio]([dio.me](https://www.dio.me) utilizando-se de ferramentas de IAs.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
-- IA Generativa **[Copilot]((https://www.bing.com/chat))** para criar a arte visual do e-book;
+- IA Generativa **[Copilot](https://www.bing.com/chat)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
